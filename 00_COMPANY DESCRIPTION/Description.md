@@ -237,3 +237,9 @@ Despite these challenges, the company is committed to maturing its cybersecurity
 - Continuous improvement practices
 
 This repository reflects that maturity journey through a **complete RMF documentation package** demonstrating control selection, implementation, assessment, authorization, and continuous monitoring.
+
+
+## 9. Network Architecture
+
+<img width="425" height="319" alt="image" src="https://github.com/user-attachments/assets/58bbaef1-2b72-44dc-9571-67f7ca195fe4" />
+
