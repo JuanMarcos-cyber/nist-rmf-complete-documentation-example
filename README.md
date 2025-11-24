@@ -6,8 +6,10 @@ It is designed as a practical and educational reference for GRC, cybersecurity a
 in professional environments.
 
 The documents included here demonstrate how the RMF process is applied from initial preparation through continuous monitoring.
+All names appearing in this document are fictitious and are used for educational and illustrative purposes only.
 
 📚 Included RMF Stages & Documents
+
 1️⃣ PREPARE
 
 Prepare.docx
