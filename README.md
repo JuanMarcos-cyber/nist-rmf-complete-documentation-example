@@ -50,25 +50,17 @@ Monitor.docx
 Outlines continuous monitoring activities for ongoing risk awareness.
 
 📂 Repository Structure
-nist-rmf-complete-documentation-example/
-├── 01_Prepare/
-│   └── Prepare.docx
-├── 02_Categorize/
-│   └── Categorize.docx
-├── 03_Select/
-│   └── Select.docx
-├── 04_Implement/
-│   └── Implementation.docx
-├── 05_Assessment/
-│   ├── Asessment.docx
-│   ├── SSP_RetailPlus_ECommerce.docx
-│   └── SAR_RetailPlus_ECommerce.docx
-├── 06_Authorize/
-│   ├── Executive Summary.docx
-│   └── POAM_RetailPlus_ECommerce.docx
-├── 07_Monitor/
-│   └── Monitor.docx
-└── README.md
+| Folder            | Description                        | Files                                                                        |
+| ----------------- | ---------------------------------- | ---------------------------------------------------------------------------- |
+| **01_Prepare**    | RMF Prepare Step                   | Prepare.docx                                                                 |
+| **02_Categorize** | RMF Categorization                 | Categorize.docx                                                              |
+| **03_Select**     | Control Selection (NIST SP 800-53) | Select.docx                                                                  |
+| **04_Implement**  | Control Implementation Evidence    | Implementation.docx                                                          |
+| **05_Assessment** | Security Assessment (SAP/SAR/SSP)  | Asessment.docx, SSP_RetailPlus_ECommerce.docx, SAR_RetailPlus_ECommerce.docx |
+| **06_Authorize**  | Authorization Package              | Executive Summary.docx, POAM_RetailPlus_ECommerce.docx                       |
+| **07_Monitor**    | Continuous Monitoring              | Monitor.docx                                                                 |
+| **Root**          | Repo Documentation                 | README.md                                                                    |
+
 
 
 🎯 Purpose of This Repository
